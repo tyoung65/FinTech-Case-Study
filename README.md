@@ -3,7 +3,7 @@
 
 ### Overview and Origin
 ---
-Jim McKelvey had, in his mind, just secured sale of his artwork for two thousand dollars. 
+Jim McKelvey had, in his mind, just a secured sale of his artwork for two thousand dollars. 
 When Jim met with the buyer, the buyer did not have nearly enough cash to pay for the transaction 
 and Jim was not able to accept the buyer’s credit card. 
 From this interaction, Square Incorporated was conceived.

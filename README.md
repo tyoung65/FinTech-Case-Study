@@ -33,7 +33,7 @@ Square Capital will determine the amount to loan a business.
 The loan is then paid back daily from a percentage of the daily card sales of the business. 
 
 Employee Zach Brock of Square Inc writes, 
-“The backend services are written in Ruby and Java… On the Java side, 
+“The backend services are written in Ruby and Java. On the Java side, 
 we have developed our own service framework that has built-in logging, metrics, RPC, containerization, etc. built on top of
 well-known Open Source tools.” 
 He also states the company uses Postgres, MySQL, HDFS and log files for storing data. 

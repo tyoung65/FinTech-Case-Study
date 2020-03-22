@@ -16,8 +16,7 @@ The IPO price was $9, and Square ended its first day of trading at $13.07.
 
 ### Business Activities
 ---
-Square allows any merchant or vendor to accept credit card payments.  
-This innovation came in the form of its Square Reader in 2009 and allowed credit cards to be swiped anywhere 
+Square allows any merchant or vendor to accept credit card payments. This innovation came in the form of its Square Reader in 2009 and allowed credit cards to be swiped anywhere 
 a seller had a smart phone and internet connection. 
 This type of access into the economy allowed all types of businesses to prosper by cutting barriers for new and existing businesses. 
 Square also created the Cash App for IOS and Android devices. 

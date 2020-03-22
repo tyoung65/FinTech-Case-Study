@@ -26,7 +26,7 @@ Square is one of the early adopters of mobile transfers and holds a sizable mark
 After the successful launch of its Square Reader, the company introduced Square Register. 
 Square Register combines POS hardware, software and payment processing in a sleek and modern design. 
 They also offer other hardware at various price points to ensure that Square is within reach to any size business. 
-Because of the many hardware and software combinations and its flat fee for processing payments from any major carriers, 
+Because of the many hardware and software combinations and its flat fee for processing payments from any major credit card carrier, 
 Square Inc’s major advantage is its ecosystem of hardware and software. Square Capital is one of the company’s newest ventures. 
 Square Capital lends funds to small business and using its data from its payment processing, 
 Square Capital will determine the amount to loan a business. 

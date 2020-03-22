@@ -24,7 +24,7 @@ Square also created the Cash App for IOS and Android devices.
 Square is one of the early adopters of mobile transfers and holds a sizable market share of mobile funds transfers between consumers. Square has simplified the process of exchanging funds between parties by providing essential software and hardware products to small business. When questioned about Square’s business model by B2B News at a conference in Toronto, Jack Dorsey replied, “We’re not just payments or POS but a suite of tools to help our sellers. The first critical thing was to enable sellers to make the sale. Then it was organizing the information to make more sales.”
 
 After the successful launch of its Square Reader, the company introduced Square Register. 
-Square Register combines POS hardware, software and payment processing in a sleek modern design. 
+Square Register combines POS hardware, software and payment processing in a sleek and modern design. 
 They also offer other hardware at various price points to ensure that Square is within reach to any size business. 
 Because of the many hardware and software combinations and its flat fee for processing payments from any major carriers, 
 Square Inc’s major advantage is its ecosystem of hardware and software. Square Capital is one of the company’s newest ventures. 

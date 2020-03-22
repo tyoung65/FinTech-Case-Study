@@ -138,7 +138,7 @@ Square Inc poses as a new age company that may very well live long enough to exi
 
 ### Presentation
 --- 
-[My Presentation](https://onedrive.live.com/edit.aspx?resid=487D541335A322FC!329&ithint=file%2cpptx&authkey=!AINBCtebbaH5KBw)
+[My Presentation](https://1drv.ms/p/s!AvwiozUTVH1IgkmDQQrXm22h-Sgc?e=TbyRXH)
 
 ### Sources List
 ---

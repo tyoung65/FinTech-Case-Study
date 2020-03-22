@@ -99,7 +99,7 @@ This shows us there is a massive volume of payment processing needed for healthc
 there is still plenty of room for Square to grow in the processing of healthcare payments.
 
 When looking at technology companies, some of the core metrics to measure success include the liquidity ratio, 
-the debt to equity ratio and gross profit margin. 
+the debt to equity ratio and gross profit margin. We can use data from Last10K.Com to access company financials.
 In 2019, Square Inc had current assets of $3.22 billion and current liabilities of 1.69 billion, for a quick ratio of 1.9. 
 The conservative measure for liquidity uses only cash and marketable securities instead of current assets. 
 Ending 2019, Square had cash and investments totaling $1.55 billion to give us a conservative liquidity ratio of roughly 0.92. 

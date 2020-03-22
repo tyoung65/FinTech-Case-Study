@@ -137,6 +137,10 @@ Square now provides lending options to its sellers along with the software and h
 It also doesn’t hurt that every dollar comes through sleek and modern “cash” registers. 
 Square Inc poses as a new age company that may very well live long enough to exist in the next new age. 
 
+### Presentation
+--- 
+[My Presentation)](https://onedrive.live.com/edit.aspx?resid=487D541335A322FC!329&ithint=file%2cpptx&authkey=!AINBCtebbaH5KBw)
+
 ### Sources List
 ---
 https://www.bloomberg.com/profile/company/SQ:US

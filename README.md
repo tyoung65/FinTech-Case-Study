@@ -82,7 +82,8 @@ food sellers through a payment platform rather than delivery services.”
 ### Results
 ---
 The market size of payment processing is expected to surpass $62 billion by 2024. 
-Square’s revenue for the calendar year 2019 was $4.71 billion with profits of $1.89 billion.  
+Square’s revenue for 
+the calendar year 2019 was $4.71 billion with profits of $1.89 billion.  
 The company also processed $106.24 billion in gross payment volume. According to Square Inc, 
 “We define GPV as the total dollar amount of all card payments processed by sellers using Square, net of refunds. 
 Additionally, GPV includes Cash App activity related to peer-to-peer payments sent from a credit card and Cash for Business. 

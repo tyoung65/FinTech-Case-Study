@@ -10,7 +10,7 @@ From this interaction, Square Incorporated was conceived.
 Jack Dorsey and Jim McKelvey are the founders of Square Inc and the company incorporated in June 2009. 
 Before going public the company went through seven rounds of private funding. 
 Investors included Acequia Capital, Sequoia Capital and Kholsa Partners. 
-Jack Dorsey led the company through its Initial Public Offering November 2015. 
+Jack Dorsey led the company through its Initial Public Offering in November of 2015. 
 The IPO price was $9, and Square ended its first day of trading at $13.07. 
 
 ### Business Activities

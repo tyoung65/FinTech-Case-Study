@@ -6,7 +6,8 @@
 Jim McKelvey had, in his mind, just secured sale of his artwork for two thousand dollars. 
 When Jim met with the buyer, the buyer did not have nearly enough cash to pay for the transaction 
 and Jim was not able to accept the buyer’s credit card. 
-From this interaction, Square Incorporated was conceived. 
+From this interaction, Square Incorporated was conceived.
+This is the origin story of Square Inc described on Pymnts.Com.
 Jack Dorsey and Jim McKelvey are the founders of Square Inc and the company incorporated in June 2009. 
 Before going public the company went through seven rounds of private funding. 
 Investors included Acequia Capital, Sequoia Capital and Kholsa Partners. 

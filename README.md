@@ -15,13 +15,13 @@ The IPO price was $9, and Square ended its first day of trading at $13.07.
 
 ### Business Activities
 ---
-Square allows any merchant or vendor, however small, to accept electronic payments. 
-It also provides small business the ability to electronically collect funds from customers. 
+Square allows any merchant or vendor to accept credit card payments.  
 This innovation came in the form of its Square Reader in 2009 and allowed credit cards to be swiped anywhere 
 a seller had a smart phone and internet connection. 
 This type of access into the economy allowed all types of businesses to prosper by cutting barriers for new and existing businesses. 
 Square also created the Cash App for IOS and Android devices. 
-Square is one of the early adopters of mobile transfers and holds a sizable market share of mobile funds transfers between consumers. Square has simplified the process of exchanging funds between parties by providing essential software and hardware products to small business. When questioned about Square’s business model by B2B News at a conference in Toronto, Jack Dorsey replied, “We’re not just payments or POS but a suite of tools to help our sellers. The first critical thing was to enable sellers to make the sale. Then it was organizing the information to make more sales.”
+Square is one of the early adopters of mobile transfers and holds a sizable market share of mobile funds transfers between consumers.
+Square has simplified the process of exchanging funds between parties by providing essential software and hardware products to small business. When questioned about Square’s business model by B2B News at a conference in Toronto, Jack Dorsey replied, “We’re not just payments or POS but a suite of tools to help our sellers. The first critical thing was to enable sellers to make the sale. Then it was organizing the information to make more sales.”
 
 After the successful launch of its Square Reader, the company introduced Square Register. 
 Square Register combines POS hardware, software and payment processing in a sleek and modern design. 
@@ -63,7 +63,7 @@ with Google and Android creating pay systems to go along with their devices in 2
 The payment processing industry is made up of the traditional giants, Visa Inc and Mastercard, 
 as well as agile companies derived from start-up culture like PayPal and Stripe. 
 Stripe is a private company founded in 2010. The last round of funding valued the company at $35 billion in Sept 2019. 
-PayPal acquired Braintree in 2015 for $800 million and previously Braintree purchased Venmo in 2012 for $ 26.2. 
+PayPal acquired Braintree in 2015 for $800 million and previously Braintree purchased Venmo in 2012 for $26.2. 
 Venmo is a direct competitor to Square’s smart phone application: Cash App.
 
 When Square Inc was created, its sole purpose was payment processing and merchant services. 
@@ -73,7 +73,7 @@ Square acquired Caviar for $90 million in 2013.
 Caviar is a mobile food ordering platform that found a niche in providing food delivery for upscale restaurants. 
 Unfortunately for Square, the acquisition of Caviar did not go as intended. 
 In 2019, Square announced the sale of Caviar to DoorDash for $410 million. 
-At the time when the deal was announced, Sneha Nahata of MarketRealist.Com wrote, 
+At the time when the deal was announced, Sneha Nahata of Market Realist wrote, 
 “Square’s decision to sell the Caviar food app came as it aims to boost its profits and concentrate on its core payment business. 
 The Caviar app’s high costs hurt Square’s margins. Therefore, selling Caviar could let Square focus on restaurants and 
 food sellers through a payment platform rather than delivery services.” 
@@ -95,13 +95,13 @@ Considering the amount of health spending in the United States, this is an oppor
 Data from the Organization for Economic Co-operation and Development (OECD) shows
 that the United States far out paces any nation in healthcare spending. 
 Per Capita in U.S. dollars, America spends $10,586 and the next closest is Switzerland with $7,317. 
-This shows us sheer volume of payment processing needed for healthcare and 
+This shows us there is a massive volume of payment processing needed for healthcare and 
 there is still plenty of room for Square to grow in the processing of healthcare payments.
 
 When looking at technology companies, some of the core metrics to measure success include the liquidity ratio, 
 the debt to equity ratio and gross profit margin. 
 In 2019, Square Inc had current assets of $3.22 billion and current liabilities of 1.69 billion, for a quick ratio of 1.9. 
-The conservative measure for liquidity uses only cash and marketable securities instead of current liabilities. 
+The conservative measure for liquidity uses only cash and marketable securities instead of current assets. 
 Ending 2019, Square had cash and investments totaling $1.55 billion to give us a conservative liquidity ratio of roughly 0.92. 
 For comparison, Visa had a liquidity ratio of 1.56, and a conservative liquidity ratio of 0.9 for the calendar year ending in September 2019. 
 Mastercard’s liquidity and conservative liquidity ratios come to 1.42 and 0.64 respectively. 
